@@ -2,3 +2,4 @@ Utterances,Intent
 How can I draw cards?,Card draw
 How can I cast creature spells?,Cast creatures
 How many card do I need in a deck?,Deck size
+Does the sideboard count as part of the main deck?,Deck size
