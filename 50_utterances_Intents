@@ -1,5 +1,51 @@
 Utterances,Intent
-How can I draw cards?,Card draw
-How can I cast creature spells?,Cast creatures
-How many card do I need in a deck?,Deck size
-Does the sideboard count as part of the main deck?,Deck size
+How can I draw cards?,Card_Draw
+How can I cast creature spells?,Cast_Spells
+How many card do I need in a deck?,Deck_Size
+Does the sideboard count as part of the main deck?,Deck_Size
+What if I have more than 60 cards in a deck?,Deck_Size
+How many lands should I have in a deck?,Deck_Building
+What is the difference between instant and sorcery spells?,Card_Type
+How many cards can I draw in a single turn?,Card_Draw
+Can I draw cards on my opponent's turn?,Card_Draw
+Do I cast lands?,Cast_Spells
+Do I only win by dealing damage?,Win_Cons
+What other ways can I win?,Win_Cons
+Can I win if there are no cards in my opponent's library?,Win_Cons
+What happens if I run out of cards in my hand?,Card_Draw
+Can I cast a sorcery on my opponent's turn?,Cast_Spells
+Can I gain life?,Win_Cons
+Can I make a deck with multiple colors?,Deck_Building
+Can I make a deck without any colors?,Deck_Building
+Can I cast any spells on my opponent's turn?,Cast_Spells
+Can I cast spells from my graveyard?,Cast_Spells
+Can I cast spells from exile?,Cast_Spells
+What is the maximum number of cards I can have in my deck?,Deck_Size
+Can I attack more than once per turn?,Phases
+How many phases are there in a turn?,Phases
+Do I untap my lands after each phase?,Phases
+Do I untap my lands on my opponent's untap step?,Phases
+When do I untap my creatures?,Phases
+What cards enter tapped?,Card_Type
+Can I tap my creatures at any time?,Phases
+Do commanders attack at different times?,Phases
+How many creatures should I put in a deck?,Deck_Building
+Is colorless mana the same as generic mana?,Mana
+What color mana can I use to pay for generic mana?,Mana
+Do I have to pay mana to untap my creatures?,Mana
+What's the difference between artifacts and enchantments?,Card_Type
+Do I have to pay mana for artifacts or enchantments that are already on the battlefield?,Mana
+Can creatures also be artifacts?,Card_Type
+Is there a maximum number of spells I can cast on a single turn?,Cast_Spells
+What is colorless mana?,Mana
+Are there creatures that only cost colorless mana?,Mana
+How many spell types are there?,Spell_Types
+Can any creature be a commander?,Spell_Type
+Can I cast spells after attacking?,Cast_Spells
+Can I cast spells during attacks?,Cast_Spells
+Can I cast creatures during an opponent's turn?,Cast_Spells
+Can a commander only be a creature?,Card_Type
+Does each color have its own strategy?,Deck_Building
+Do commander decks have to have exactly 100 cards?,Deck_Size
+What happens if I draw every card from my library?,Card_Draw
+Can I prevent my opponents from drawing cards?,Card_Draw
